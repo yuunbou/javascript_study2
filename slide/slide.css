@@ -40,3 +40,8 @@ img {
   height: 16px;
   background: url(images/arrow-right.svg) no-repeat;
 }
+
+#page {
+  color: white;
+}
+
